@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 
-// cartCount comes in as a prop from App.jsx
 function Navbar({ cartCount }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm px-3">
