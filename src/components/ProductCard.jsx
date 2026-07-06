@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 
-// product and onAddToCart are passed in as props from Home.jsx
 function ProductCard({ product, onAddToCart }) {
   return (
     <div className="col-sm-6 col-md-4 col-lg-3 mb-4">
