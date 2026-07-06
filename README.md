@@ -5,7 +5,6 @@ A simple React app using the free Fake Store API (`https://fakestoreapi.com/prod
 ## Run it
 
 ```bash
-npm install
 npm run dev
 ```
 
